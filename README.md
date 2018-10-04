@@ -1,5 +1,5 @@
 # Generated numerical images using GAN Computer-Vision model and MNIST data
-![MNIST Generated images - computer learning how to be a trickster and draw](C:\Users\samorris\Desktop\GAN_MNIST.JPG)
+![MNIST Generated images - computer learning how to be a trickster and draw](https://github.com/morrissa/MNIST-GAN-Generating-images-tensorflow/blob/master/GAN_MNIST.JPG)
 
 ##### In this model I aim to build a generative adversarial network to generate numerical images from the MNIST dataset comprising of the number 1 - 9
 
